@@ -1,0 +1,6 @@
+{
+  "name": "Car",
+  "description": "Una aplicación completa para rastrear el mantenimiento, el consumo de combustible, los gastos y el kilometraje de tu vehículo. Obtén información impulsada por IA para mantener tu auto en las mejores condiciones.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
